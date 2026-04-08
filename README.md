@@ -10,11 +10,13 @@ Licensed under **BSL 1.1**. Free for **personal, non-commercial** use (including
 
 ## Download
 
-Open **[Releases](https://github.com/jacobdcook/linkedin-automator-app/releases)** and download the zip for your OS (Windows / Linux / macOS when published).
+Open **[Releases](https://github.com/jacobdcook/linkedin-automator-app/releases)**.
+
+- **v0.1.0-beta:** Linux x86_64 — `LinkedInAutomator-v0.1.0-beta-linux.zip`. Windows and macOS zips will be added when published.
 
 ## Quick start
 
-See **[SETUP.md](SETUP.md)** for install steps, Playwright browser setup, and first-run wizard.
+See **[SETUP.md](SETUP.md)** for extract and run steps, Playwright Chromium, LinkedIn login, **Quick setup** in the Hub (Groq API key, paste config from Claude), and first-time wizard options.
 
 ## Features (summary)
 
